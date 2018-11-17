@@ -6,4 +6,8 @@ public class YamlGeneratorImpl implements YamlGenerator {
     public YamlGeneratorImpl(CountResult result) {
 
     }
+
+    public void createYaml() {
+
+    }
 }
