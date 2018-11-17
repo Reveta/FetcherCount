@@ -21,3 +21,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 !/.mvn/wrapper/maven-wrapper.jar
+/FetcherCount.iml
+/.idea/
+.idea/
+FetcherCount.iml
+
